@@ -23,6 +23,7 @@ Horizon Style Commandments
     operator.attrgetter,
     StringIO.StringIO
 
+
 - Step 3: Read on
 
 Horizon Specific Commandments
